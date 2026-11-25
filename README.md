@@ -23,3 +23,7 @@ Retrouvez mon suivi quotidien sur mon dépôt : [Mon journal de bord](https://gi
 ## Ma commande préférée de la semaine
 ```bash
 git status
+```
+## Mes projets
+Retrouvez mon suivi quotidien sur mon dépôt : [Mon journal de bord](https://github.com/lebreton7nicolas-ai/journal-de-bord.git)
+![💻](https://plus.unsplash.com/premium_photo-1661816432228-7637c8b2a0a4?q=80&w=1656&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D) 
